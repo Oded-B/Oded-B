@@ -1,0 +1,15 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "Oded-B/Oded-B": {
+          "permissions": {
+            "issues": "write"
+            "id-token": "write"
+            "contents": "read"
+          }
+        }
+      }
+    }
+  }
+}
