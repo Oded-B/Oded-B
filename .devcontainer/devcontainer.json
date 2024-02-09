@@ -4,8 +4,8 @@
       "repositories": {
         "Oded-B/Oded-B": {
           "permissions": {
-            "issues": "write"
-            "id-token": "write"
+            "issues": "write",
+            "id-token": "write",
             "contents": "read"
           }
         }
