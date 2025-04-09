@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm based in Berlin and I lead the Core platfrom team in Coralogix, we maintaine the Coralogix Kubernetes infrastracutre and the major stateful workloads like Kafka.
+I'm based in Berlin and I lead the Core platfrom team in Coralogix, we maintain the Coralogix Kubernetes infrastructure and the major stateful workloads like Kafka.
 
 I have been working in the PlatEng/SRE/Devops/SystemAdmin space since 2005.
 
